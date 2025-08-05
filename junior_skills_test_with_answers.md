@@ -31,6 +31,7 @@ A class is used for objects, and a struct is kind of the same but smaller. Class
 **Q**: Write a method to return the sum of even numbers in an array.
 
 **Answer**:
+```
 public int SumEven(int[] arr)
 {
     int total = 0;
@@ -43,7 +44,7 @@ public int SumEven(int[] arr)
     }
     return total;
 }
-
+```
 
 ## Section 2: SQL / SSRS (20 points)
 ### 2.1. [SQL Query – 8 pts]
