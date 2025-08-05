@@ -145,11 +145,11 @@ The Controller in ASP.NET MVC:
 REST APIs (Representational State Transfer) are web services that use standard HTTP methods (GET, POST, PUT, DELETE) for communication.
 They are useful because they:
 
-Allow communication between different systems
+- Allow communication between different systems
 
-Enable frontend and backend separation
+- Enable frontend and backend separation
 
-Use standard formats like JSON or XML
+- Use standard formats like JSON or XML
 
 
 ### 5.2. [Short Answer – 5 pts]
@@ -158,9 +158,9 @@ Use standard formats like JSON or XML
 **Answer**:
 Git helps teams by:
 
-Tracking changes to code over time
+- Tracking changes to code over time
 
-Allowing multiple developers to work on the same codebase without conflicts and Facilitating collaboration through platforms like GitHub or GitLab
+- Allowing multiple developers to work on the same codebase without conflicts and Facilitating collaboration through platforms like GitHub or GitLab
 
 
 ### 5.3. [Scenario – 10 pts]
